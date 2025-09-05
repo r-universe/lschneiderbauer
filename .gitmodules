@@ -8,3 +8,6 @@
 [submodule "heumilkr"]
 	path = heumilkr
 	url = https://github.com/lschneiderbauer/heumilkr
+[submodule "ricci"]
+	path = ricci
+	url = https://github.com/lschneiderbauer/ricci
