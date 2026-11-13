@@ -5,6 +5,9 @@
 [submodule "binpackr"]
 	path = binpackr
 	url = https://github.com/lschneiderbauer/binpackr
+[submodule "fCWTr"]
+	path = fCWTr
+	url = https://github.com/lschneiderbauer/fcwtr
 [submodule "heumilkr"]
 	path = heumilkr
 	url = https://github.com/lschneiderbauer/heumilkr
